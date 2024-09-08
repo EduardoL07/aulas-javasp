@@ -10,6 +10,8 @@
 /*  
 Tudo que estiver aqui dentro vai ser um comentário
 */
-var a = "Palavra";
 
-console.log(b);
+var a = null;
+
+
+console.log(a);
