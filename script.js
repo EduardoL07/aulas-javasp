@@ -1,9 +1,15 @@
-var a;
+// Boolean
+// Null
+// Underfined
+// Number
+// String
 
-var b = "hd";
 
-a = "HD";
+// Tudo que estiver nessa linha vai ser um comentário 
 
-a = "placa de captura";
+/*  
+Tudo que estiver aqui dentro vai ser um comentário
+*/
+var a = "Palavra";
 
 console.log(b);
